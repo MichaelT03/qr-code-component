@@ -1,3 +1,21 @@
+html{
+    font-family: 'Outfit';
+}
+
 body{
+    background-color: hsl(212, 45%, 89%);
     text-align: center;
+}
+
+figure{
+    background-color: hsl(0, 0%, 100%);
+}
+
+figure img{
+    margin-top: 1em;
+    width: 20%;
+}
+
+figure figcaption p{
+    padding-bottom: 1.5em;
 }
