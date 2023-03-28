@@ -19,3 +19,12 @@ figure img{
 figure figcaption p{
     padding-bottom: 1.5em;
 }
+
+h1{
+    font-size: 1.5em;
+}
+
+p{
+    color: #939799;
+    font-size: 0.9em;
+}
