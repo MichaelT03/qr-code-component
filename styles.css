@@ -1,0 +1,35 @@
+html{
+    font-family: 'Outfit', sans-serif;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+figure{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    display: inline-block;
+    margin-top: 5em;
+    width: 25%;
+}
+
+figure img{
+    border-radius: 25px;
+    margin-top: 1em;
+    width: 90%;
+}
+
+figure figcaption p{
+    padding-bottom: 1.5em;
+}
+
+h1{
+    font-size: 1.5em;
+}
+
+p{
+    color: #939799;
+    font-size: 0.9em;
+}
