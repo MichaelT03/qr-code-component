@@ -9,9 +9,11 @@ body{
 
 figure{
     background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
 }
 
 figure img{
+    border-radius: 25px;
     margin-top: 1em;
     width: 20%;
 }
